@@ -1,0 +1,50 @@
+[
+    {
+     "id":"1",
+     "name":"sivagangai",
+     "parent_id":"0"
+    }, 
+    {
+     "id":"2",
+     "name":"theni",
+     "parent_id":"0"
+    }, 
+    
+    {
+     "id":"4",
+     "name":"manamadurai",
+     "parent_id":"1"
+    }, 
+    {
+     "id":"5",
+     "name":"ilayangadi",
+     "parent_id":"1"
+    }, 
+    {
+     "id":"6",
+     "name":"thiruppuvanam",
+     "parent_id":"1"
+    }, 
+    {
+     "id":"7",
+     "name":"kalaiyarkoil",
+     "parent_id":"1"
+    }, 
+    {
+     "id":"8",
+     "name":"bodinayakanur",
+     "parent_id":"2"
+    }, 
+    {
+     "id":"9",
+     "name":"periyakulam",
+     "parent_id":"2"
+    }, 
+    {
+     "id":"10",
+     "name":"uthamapdayam",
+     "parent_id":"2"
+    }
+    
+  
+   ]
